@@ -1,6 +1,6 @@
 # Spark&Heal - Life After Breast Cancer
 
-This is the static website for **Spark&Heal**, a community-driven platform for breast cancer survivors.
+This is the static website for **Inna Shchepanska**.
 
 ## Hosted at
 [https://thewallinna.github.io/Innashchepanska/](https://thewallinna.github.io/Innashchepanska/)
